@@ -32,32 +32,35 @@
             </router-link>
           </div>
           <div class="text-sm text-gray-600">
-            <a class="text-gray-400 hover:text-blue-500 transition duration-150 ease-in-out" href="#0">Terms</a> · <a class="text-gray-400 hover:text-blue-500 transition duration-150 ease-in-out" href="#0">Privacy Policy</a>
+            <!-- <a class="text-gray-400 hover:text-blue-500 transition duration-150 ease-in-out" href="#0">Terms</a> · <a class="text-gray-400 hover:text-blue-500 transition duration-150 ease-in-out" href="#0">Privacy Policy</a> -->
           </div>
         </div>
 
         <!-- 2nd block -->
         <div class="sm:col-span-6 md:col-span-3 lg:col-span-2">
-          <h6 class="text-xs text-gray-200 font-semibold uppercase mb-2">Products</h6>
+          <h6 class="text-xs text-gray-200 font-semibold uppercase mb-2">Empresa</h6>
           <ul class="text-sm space-y-2">
             <li>
-              <a class="text-gray-400 hover:text-blue-500 transition duration-150 ease-in-out" href="#0">Neon Manage</a>
+              <a class="text-gray-400 hover:text-blue-500 transition duration-150 ease-in-out" href="https://www.dastions.com" target="_blank">Contacto</a>
             </li>
             <li>
-              <a class="text-gray-400 hover:text-blue-500 transition duration-150 ease-in-out" href="#0">Neon Analyse</a>
+              <p class="text-gray-500 transition duration-150 ease-in-out">Dastions.com</p>
             </li>
             <li>
-              <a class="text-gray-400 hover:text-blue-500 transition duration-150 ease-in-out" href="#0">Neon Launch</a>
+              <p class="text-gray-500 transition duration-150 ease-in-out">(+34) <b>977 </b>13 12 06</p>
+            </li>
+            <!-- <li>
+              <a class="text-gray-400 hover:text-blue-500 transition duration-150 ease-in-out" href="#0">Our Story</a>
             </li>
             <li>
-              <a class="text-gray-400 hover:text-blue-500 transition duration-150 ease-in-out" href="#0">Experimentation</a>
-            </li>
+              <a class="text-gray-400 hover:text-blue-500 transition duration-150 ease-in-out" href="#0">Work With Us</a>
+            </li> -->
           </ul>
         </div>
 
         <!-- 3rd block -->
         <div class="sm:col-span-6 md:col-span-3 lg:col-span-2">
-          <h6 class="text-xs text-gray-200 font-semibold uppercase mb-2">Resources</h6>
+          <!-- <h6 class="text-xs text-gray-200 font-semibold uppercase mb-2">Resources</h6>
           <ul class="text-sm space-y-2">
             <li>
               <a class="text-gray-400 hover:text-blue-500 transition duration-150 ease-in-out" href="#0">Blog</a>
@@ -71,12 +74,12 @@
             <li>
               <a class="text-gray-400 hover:text-blue-500 transition duration-150 ease-in-out" href="#0">Affiliate Program</a>
             </li>
-          </ul>
+          </ul> -->
         </div>
 
         <!-- 4th block -->
         <div class="sm:col-span-6 md:col-span-3 lg:col-span-2">
-          <h6 class="text-xs text-gray-200 font-semibold uppercase mb-2">Compare</h6>
+          <!-- <h6 class="text-xs text-gray-200 font-semibold uppercase mb-2">Compare</h6>
           <ul class="text-sm space-y-2">
             <li>
               <a class="text-gray-400 hover:text-blue-500 transition duration-150 ease-in-out" href="#0">Session Recording</a>
@@ -90,24 +93,27 @@
             <li>
               <a class="text-gray-400 hover:text-blue-500 transition duration-150 ease-in-out" href="#0">Correlation Analysis</a>
             </li>
-          </ul>
+          </ul> -->
         </div>
-
         <!-- 5th block -->
         <div class="sm:col-span-6 md:col-span-3 lg:col-span-2">
-          <h6 class="text-xs text-gray-200 font-semibold uppercase mb-2">Company</h6>
+          <h6 class="text-xs text-gray-200 font-semibold uppercase mb-2">Otros Productos</h6>
           <ul class="text-sm space-y-2">
             <li>
-              <a class="text-gray-400 hover:text-blue-500 transition duration-150 ease-in-out" href="#0">About Us</a>
+              <a class="text-gray-400 hover:text-blue-500 transition duration-150 ease-in-out" target="_blank" href="https://truckandscales.com">Truck & Scales</a>
             </li>
             <li>
-              <a class="text-gray-400 hover:text-blue-500 transition duration-150 ease-in-out" href="#0">Our Story</a>
+              <a class="text-gray-400 hover:text-blue-500 transition duration-150 ease-in-out" target="_blank" href="https://appsmartpay.com">Terminal de Pago</a>
             </li>
             <li>
-              <a class="text-gray-400 hover:text-blue-500 transition duration-150 ease-in-out" href="#0">Work With Us</a>
+              <a class="text-gray-400 hover:text-blue-500 transition duration-150 ease-in-out" target="_blank" href="https://www.dastions.com">Ingeniería</a>
             </li>
+            <!-- <li>
+              <a class="text-gray-400 hover:text-blue-500 transition duration-150 ease-in-out" href="#0">Experimentation</a>
+            </li> -->
           </ul>
         </div>
+        
 
       </div>
 

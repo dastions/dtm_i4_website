@@ -14,9 +14,9 @@
 
         <!-- Section header -->
         <div class="max-w-3xl mx-auto text-center pb-12 md:pb-20">
-          <h2 class="h2 font-uncut-sans mb-4">Use sensitive data without sacrificing privacy</h2>
+          <h2 class="h2 font-uncut-sans mb-4">Controla toda tu producción</h2>
           <div class="max-w-2xl mx-auto">
-            <p class="text-xl text-gray-400">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est.</p>
+            <p class="text-xl text-gray-400">Conecta <b>múltiples máquinas</b> al sistema y centraliza el control de fabricación de manera remota.</p>
           </div>
         </div>
 
@@ -26,26 +26,32 @@
           <!-- Content -->
           <div class="md:w-7/12 lg:w-1/2 order-1 md:order-none" data-aos="zoom-out" data-aos-delay="200">
             <div class="text-center md:text-left">
-              <h3 class="h3 font-uncut-sans text-4xl mb-4">Standardized dev environments</h3>
-              <p class="text-xl text-gray-400 mb-6">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-              <ul class="inline-flex flex-col text-lg text-gray-400 space-y-3">
+              <h3 class="h3 font-uncut-sans text-4xl mb-4">Útilidades</h3>
+              <p class="text-xl text-gray-400 mb-6">Funcionalidades adaptadas a las necesidads, disponibles para múltiples equipos.</p>
+              <ul class="inline-flex flex-col text-lg text-gray-400 space-y-3 mb-10">
                 <li class="flex items-center">
                   <svg class="w-3 h-3 fill-current text-emerald-500 mr-3 shrink-0" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
                     <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                   </svg>
-                  <span>Performance reviews</span>
+                  <span>Informes Legales para Auditorías</span>
                 </li>
                 <li class="flex items-center">
                   <svg class="w-3 h-3 fill-current text-emerald-500 mr-3 shrink-0" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
                     <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                   </svg>
-                  <span>Objectives and goal setting</span>
+                  <span>Alertas de rendimiento</span>
                 </li>
                 <li class="flex items-center">
                   <svg class="w-3 h-3 fill-current text-emerald-500 mr-3 shrink-0" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
                     <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                   </svg>
-                  <span>Manager check-ins</span>
+                  <span>Adquisición de Datos</span>
+                </li>
+                <li class="flex items-center">
+                  <svg class="w-3 h-3 fill-current text-emerald-500 mr-3 shrink-0" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
+                  </svg>
+                  <span>Resúmenes y Conclusiones</span>
                 </li>
               </ul>
             </div>
@@ -53,7 +59,7 @@
 
           <!-- Image -->
           <div class="md:w-5/12 lg:w-1/2" data-aos="zoom-out">
-            <img class="mx-auto md:max-w-none" src="../images/features-02.png" width="540" height="581" alt="Features" />
+            <img class="mx-auto md:max-w-none" src="../images/production.jpg" width="640" height="581" alt="Features" />
           </div>
 
         </div>
