@@ -10,7 +10,7 @@
 
         <div class="pb-16 video-wrapper" data-aos="zoom-out">
           <video id="background-video" autoplay muted loop>
-              <source src="../images/IMG_0334.MOV" type="video/mp4">
+              <source src="https://github.com/dastions/dtm_i4_website/raw/240bc09dbb57879ee4b67c88c406111a31bd6c0c/src/images/IMG_0334.MOV" type="video/mp4">
               Your browser does not support HTML5 video.
             </video>
           <div class="header">
