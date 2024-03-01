@@ -34,13 +34,13 @@
 
           <!-- Desktop sign in links -->
           <ul class="flex grow justify-end flex-wrap items-center">
-            <!-- <li>
-              <router-link class="font-medium text-gray-400 hover:text-blue-500 px-3 lg:px-5 py-2 flex items-center transition duration-150 ease-in-out" to="/signin">Demo</router-link>
-            </li> -->
+            <li>
+              <router-link class="font-medium text-gray-400 hover:text-blue-500 px-3 lg:px-5 py-2 flex items-center transition duration-150 ease-in-out" to="/contact">Contactar</router-link>
+            </li>
             <li class="ml-3">
-              <a class="btn-sm text-white bg-gradient-to-t from-blue-600 to-blue-400 hover:to-blue-500 w-full shadow-lg group" href="https://www.dastions.com#contact" target="_blank">
+              <router-link class="btn-sm text-white bg-gradient-to-t from-blue-600 to-blue-400 hover:to-blue-500 w-full shadow-lg group" to="/contact">
                 Solicitar Demo <span class="tracking-normal text-blue-200 group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1">-&gt;</span>
-              </a>
+              </router-link>
             </li>
           </ul>
 

@@ -23,7 +23,7 @@ const router = createRouter({
       component: Home
     },
     {
-      path: '/signin',
+      path: '/contact',
       component: SignIn
     },
     {

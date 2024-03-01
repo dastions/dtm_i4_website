@@ -48,27 +48,29 @@
               <div class="py-16 md:py-20">
 
                 <div class="mb-8">
-                  <h1 class="h2 font-uncut-sans">Welcome Back!</h1>
+                  <h1 class="h2 font-uncut-sans">Contactar</h1>
                 </div>
 
                 <!-- Form -->
-                <form>
+                <form
+                  action="https://formspree.io/f/xjvnrlgq"
+                  method="POST"
+                >
                   <div class="space-y-4">
                     <div>
                       <label class="block text-sm text-gray-400 font-medium mb-1" for="email">Email</label>
-                      <input id="email" class="form-input py-2 w-full" type="email" required />
+                      <input id="email" class="form-input py-2 w-full" type="email" required name="email"/>
                     </div>
                     <div>
                       <div class="flex justify-between">
-                        <label class="block text-sm text-gray-400 font-medium mb-1" for="password">Password</label>
-                        <router-link class="text-sm font-medium text-blue-500 hover:text-blue-400 ml-2" to="/reset-password">Troubles?</router-link>
+                        <label class="block text-sm text-gray-400 font-medium mb-1" for="password">Mensaje</label>
                       </div>
-                      <input id="password" class="form-input py-2 w-full" type="password" autocomplete="on" required />
+                      <textarea name="message" class="form-input py-8 w-full"></textarea>
                     </div>
                   </div>
                   <div class="mt-6">
                     <button class="btn-sm text-white bg-gradient-to-t from-blue-600 to-blue-400 hover:to-blue-500 w-full shadow-lg group">
-                      Sign In <span class="tracking-normal text-blue-200 group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1">-&gt;</span>
+                      Enviar <span class="tracking-normal text-blue-200 group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1">-&gt;</span>
                     </button>
                   </div>
                 </form>
@@ -81,20 +83,20 @@
                 </div>
 
                 <!-- Social login -->
-                <button class="btn-sm text-white bg-gradient-to-t from-pink-500 to-pink-400 hover:to-pink-500 w-full relative flex after:flex-1">
+                <a class="btn-sm text-white bg-gradient-to-t from-pink-500 to-pink-400 hover:to-pink-500 w-full relative flex after:flex-1">
                   <div class="flex-1 flex items-center">
                     <svg class="w-4 h-4 fill-current text-pink-200 shrink-0" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
                       <path d="M15.679 6.545H8.043v3.273h4.328c-.692 2.182-2.401 2.91-4.363 2.91a4.727 4.727 0 1 1 3.035-8.347l2.378-2.265A8 8 0 1 0 8.008 16c4.41 0 8.4-2.909 7.67-9.455Z" />
                     </svg>
                   </div>
-                  <span class="flex-auto text-pink-50 pl-3">Continue With Google</span>
-                </button>
+                  <span class="flex-auto text-pink-50 pl-3">Abrir Demo Online</span>
+                </a>
 
-                <div class="mt-6">
+                <!-- <div class="mt-6">
                   <div class="text-sm text-gray-400">
                     Don't you have an account? <router-link class="font-medium text-blue-500 hover:text-blue-400" to="/signup">Sign Up</router-link>
                   </div>
-                </div>
+                </div> -->
 
               </div>
             </div>
