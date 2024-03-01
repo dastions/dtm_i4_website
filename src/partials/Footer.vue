@@ -41,10 +41,10 @@
           <h6 class="text-xs text-gray-200 font-semibold uppercase mb-2">Empresa</h6>
           <ul class="text-sm space-y-2">
             <li>
-              <a class="text-gray-400 hover:text-blue-500 transition duration-150 ease-in-out" href="https://www.dastions.com" target="_blank">Contacto</a>
+              <p class="text-gray-500 transition duration-150 ease-in-out">Developed by</p>
             </li>
             <li>
-              <p class="text-gray-500 transition duration-150 ease-in-out">Dastions.com</p>
+              <a class="text-gray-400 hover:text-blue-500 transition duration-150 ease-in-out" href="https://www.dastions.com" target="_blank">Dastions.com</a>
             </li>
             <li>
               <p class="text-gray-500 transition duration-150 ease-in-out">(+34) <b>977 </b>13 12 06</p>

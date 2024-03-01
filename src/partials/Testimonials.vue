@@ -27,7 +27,7 @@
               <p class="text-gray-400">Estamos trabajando con Oriol Mauri para conectar más equipos de Minebea.</p>
             </div>
             <footer class="text-sm text-gray-400">
-              <span class="text-gray-300">Jaume</span> - <a class="font-medium text-blue-500 hover:text-blue-400 transition duration-150 ease-in-out" target="_blank" href="https://www.minebea-intec.es">Minebea Intec</a>
+              <span class="text-gray-300">Jaime</span> - <a class="font-medium text-blue-500 hover:text-blue-400 transition duration-150 ease-in-out" target="_blank" href="https://www.minebea-intec.es">Minebea Intec</a>
             </footer>
           </article>
 
@@ -66,7 +66,7 @@
               <p class="text-gray-400">Aquí en UK la conexión del software a nuestras máquinas nos ha facilitado la vida al departamento de Calidad.</p>
             </div>
             <footer class="text-sm text-gray-400">
-              <span class="text-gray-300">Rossana McFarland</span> - <a class="font-medium text-blue-500 hover:text-blue-400 transition duration-150 ease-in-out" href="#">UK Fruits</a>
+              <span class="text-gray-300">Rosana</span> - <a class="font-medium text-blue-500 hover:text-blue-400 transition duration-150 ease-in-out" href="#">UK Fruits</a>
             </footer>
           </article>
 

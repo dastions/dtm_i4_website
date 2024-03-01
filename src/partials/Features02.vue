@@ -59,7 +59,7 @@
 
           <!-- Image -->
           <div class="md:w-5/12 lg:w-1/2" data-aos="zoom-out">
-            <img class="mx-auto md:max-w-none" src="../images/production.jpg" width="640" height="581" alt="Features" />
+            <img class="mx-auto md:max-w-none" src="../images/production-2.jpg" width="640" height="581" alt="Features" style="filter: opacity(80%);"/>
           </div>
 
         </div>

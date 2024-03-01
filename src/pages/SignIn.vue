@@ -48,7 +48,7 @@
               <div class="py-16 md:py-20">
 
                 <div class="mb-8">
-                  <h1 class="h2 font-uncut-sans">Contactar</h1>
+                  <h1 class="h2 font-uncut-sans">Formulario de Contacto</h1>
                 </div>
 
                 <!-- Form -->
@@ -58,14 +58,14 @@
                 >
                   <div class="space-y-4">
                     <div>
-                      <label class="block text-sm text-gray-400 font-medium mb-1" for="email">Email</label>
+                      <label class="block text-sm text-gray-400 font-medium mb-1" for="email">Correo electrónico</label>
                       <input id="email" class="form-input py-2 w-full" type="email" required name="email"/>
                     </div>
                     <div>
                       <div class="flex justify-between">
-                        <label class="block text-sm text-gray-400 font-medium mb-1" for="password">Mensaje</label>
+                        <label class="block text-sm text-gray-400 font-medium mb-1">Cuéntanos tu necesidad</label>
                       </div>
-                      <textarea name="message" class="form-input py-8 w-full"></textarea>
+                      <textarea name="message" class="form-input py-2 w-full"></textarea>
                     </div>
                   </div>
                   <div class="mt-6">

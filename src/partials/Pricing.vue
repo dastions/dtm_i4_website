@@ -11,7 +11,7 @@
 
         <!-- Section header -->
         <div class="max-w-3xl mx-auto text-center pb-12 md:pb-20">
-          <h2 class="h2 font-uncut-sans mb-4">Nuestras Tarifa</h2>
+          <h2 class="h2 font-uncut-sans mb-4">Nuestras Tarifas</h2>
           <div class="max-w-2xl mx-auto">
             <p class="text-xl text-gray-400">Tarifas generales, adaptables para clientes especiales o colaboraciones con partners y marcas de fabricantes</p>
           </div>
@@ -30,9 +30,9 @@
                 <span class="font-medium text-gray-400"> Hardware</span>
               </div>
               <div class="text-gray-400 mb-6">Licencia Única para conectar su máquina.</div>
-              <a class="btn-sm text-white bg-gradient-to-t from-blue-600 to-blue-400 hover:to-blue-500 w-full shadow-lg group" href="#0">
+              <router-link class="btn-sm text-white bg-gradient-to-t from-blue-600 to-blue-400 hover:to-blue-500 w-full shadow-lg group" to="/contact">
                 Solicitar <span class="tracking-normal text-blue-200 group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1">-&gt;</span>
-              </a>
+              </router-link>
             </div>
             <div class="font-medium mb-4">Funcionalidades:</div>
             <ul class="text-gray-400 space-y-3 grow">
@@ -74,16 +74,16 @@
               </div>
             </div>
             <div class="mb-6">
-              <div class="text-lg font-semibold mb-1">WebApp / Cloud</div>
+              <div class="text-lg font-semibold mb-1">Aplicativo / Cloud</div>
               <div class="font-uncut-sans inline-flex items-baseline mb-2">
                 <span class="text-4xl font-bold leading-7">149</span>
                 <span class="text-3xl font-medium text-gray-400">€</span>
                 <span class="font-medium text-gray-400">/mes</span>
               </div>
               <div class="text-gray-400 mb-6">Aplicación web DTM_i4.0 basada en conexión a Internet. </div>
-              <a class="btn-sm text-white bg-gradient-to-t from-blue-600 to-blue-400 hover:to-blue-500 w-full shadow-lg group" href="#0">
+              <router-link class="btn-sm text-white bg-gradient-to-t from-blue-600 to-blue-400 hover:to-blue-500 w-full shadow-lg group" to="/contact">
                 Ver Demo <span class="tracking-normal text-blue-200 group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1">-&gt;</span>
-              </a>
+              </router-link>
             </div>
             <div class="font-medium mb-4">Todas las Funcionalidades:</div>
             <ul class="text-gray-400 space-y-3 grow">
@@ -103,13 +103,13 @@
                 <svg class="w-3 h-3 fill-current text-emerald-500 mr-3 shrink-0" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
                   <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                 </svg>
-                <span>Graficas de Datos</span>
+                <span>Gráficas Personalizadas</span>
               </li>
               <li class="flex items-center">
                 <svg class="w-3 h-3 fill-current text-emerald-500 mr-3 shrink-0" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
                   <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                 </svg>
-                <span>Mantenimiento de Servidor y Copias</span>
+                <span>Mantenimiento de Servidor</span>
               </li>
               <li class="text-sm italic flex items-center">
                 <span>Conecta hasta 2 Dispositivos</span>
@@ -127,9 +127,9 @@
                 <span class="font-medium text-gray-400">/Bajo Presupuesto</span>
               </div>
               <div class="text-gray-400 mb-6">Para grandes empresas con departamento informático.</div>
-              <a class="btn-sm text-white bg-gradient-to-t from-blue-600 to-blue-400 hover:to-blue-500 w-full shadow-lg group" href="#0">
+              <router-link class="btn-sm text-white bg-gradient-to-t from-blue-600 to-blue-400 hover:to-blue-500 w-full shadow-lg group" to="/contact">
                 Presupuesto <span class="tracking-normal text-blue-200 group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1">-&gt;</span>
-              </a>
+              </router-link>
             </div>
             <div class="font-medium mb-4">WebApp en Servidor Local:</div>
             <ul class="text-gray-400 space-y-3 grow">
