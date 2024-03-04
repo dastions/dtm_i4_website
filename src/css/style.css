@@ -19,7 +19,7 @@
     }
 }
 video {
-    filter: opacity(40%);
+    filter: opacity(60%);
     object-fit: cover;
     position: absolute;
     top: 0;

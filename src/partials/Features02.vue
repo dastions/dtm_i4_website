@@ -26,14 +26,20 @@
           <!-- Content -->
           <div class="md:w-7/12 lg:w-1/2 order-1 md:order-none" data-aos="zoom-out" data-aos-delay="200">
             <div class="text-center md:text-left">
-              <h3 class="h3 font-uncut-sans text-4xl mb-4">Útilidades</h3>
-              <p class="text-xl text-gray-400 mb-6">Funcionalidades adaptadas a las necesidads, disponibles para múltiples equipos.</p>
+              <h3 class="h3 font-uncut-sans text-4xl mb-4">Utilidades</h3>
+              <p class="text-xl text-gray-400 mb-6">Software adaptable a tus necesidades, conectamos todos tus equipos.</p>
               <ul class="inline-flex flex-col text-lg text-gray-400 space-y-3 mb-10">
                 <li class="flex items-center">
                   <svg class="w-3 h-3 fill-current text-emerald-500 mr-3 shrink-0" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
                     <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                   </svg>
                   <span>Informes Legales para Auditorías</span>
+                </li>
+                <li class="flex items-center">
+                  <svg class="w-3 h-3 fill-current text-emerald-500 mr-3 shrink-0" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
+                  </svg>
+                  <span>Control de Peso Promedio en Continuo</span>
                 </li>
                 <li class="flex items-center">
                   <svg class="w-3 h-3 fill-current text-emerald-500 mr-3 shrink-0" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">

@@ -22,9 +22,9 @@
           </div>
           <h1 class="h1 font-uncut-sans mb-6" data-aos="zoom-out" data-aos-delay="100">Data Collection <em class="font-italic">DTM 4.0</em></h1>
           
-          <p class="text-xl text-gray-400 mb-2" data-aos="zoom-out" data-aos-delay="200">Conéctate fácilmente tus equipos y empieza a tomar el control de tu planta de producción.</p>
+          <p class="text-xl text-gray-400 mb-2" data-aos="zoom-out" data-aos-delay="200">Conecta fácilmente tus equipos y empieza a tomar el control de tu planta de producción.</p>
           <p class="text-xl text-gray-400 mb-4" data-aos="zoom-out" data-aos-delay="200">Comienza a obtener más de tus máquinas.</p>
-          <p class="italic text-gray-400">Pesadoras dinámicas, Detectores de Metales, Embasadoras, y mucho más</p>
+          <p class="italic text-gray-400">Pesadoras dinámicas, Detectores de Metales, Envasadoras, y mucho más</p>
           <div class="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center md:justify-start space-y-4 sm:space-y-0 sm:space-x-4" data-aos="zoom-out" data-aos-delay="300">
             <!-- <div>
               <a class="btn text-white bg-gradient-to-t from-blue-600 to-blue-400 hover:to-blue-500 w-full shadow-lg group" href="#0">

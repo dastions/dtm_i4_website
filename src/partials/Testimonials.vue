@@ -12,7 +12,7 @@
 
         <!-- Section header -->
         <div class="max-w-3xl mx-auto text-center pb-12 md:pb-20">
-          <h2 class="h2 font-uncut-sans">Agradecidos de que confíen en nosotros</h2>
+          <h2 class="h2 font-uncut-sans">Confían en Nosotros</h2>
         </div>
 
         <!-- Testimonials container -->
